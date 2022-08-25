@@ -1,2 +1,3 @@
 #!/usr/bin/python3
-print("ABCDEFGHIJKLMNOPQRSTUVWXYZ", end='')
+if __name__ == "__main__":
+    import fast_alphabet
