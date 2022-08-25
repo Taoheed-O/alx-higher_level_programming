@@ -1,1 +1,1 @@
-print("#pythoniscool", end='')
+print("#pythoniscool", end='\n')
