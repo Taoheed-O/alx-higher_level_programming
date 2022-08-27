@@ -1,0 +1,6 @@
+#!/usr/bin/python3
+def no_c(my_string):
+    for i,alph in enumerate(my_string):
+        if alph == 'c' or alph == 'C':
+            del my_string[i]
+    return my_string
